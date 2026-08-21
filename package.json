@@ -1,6 +1,6 @@
 {
   "name": "discord-watchbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production-ready Discord bot event notifications and weekly statistics using Components V2.",
   "keywords": [
     "discord",
